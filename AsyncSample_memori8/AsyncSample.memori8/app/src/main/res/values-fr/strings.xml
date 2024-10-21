@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //フランス語
+    <string name="empty_string"></string>
+
+    //共通
+    <string name="bt_back">戻</string>
+
+    //menu
+    <string name="tv_title">Application d’aide à la sortie III</string>
+    <string name="bt_weather">Météo</string>
+    <string name="bt_recomend">Spécialité</string>
+    <string name="bt_talk">Rendez-vous</string>
+    <string name="bt_setting">Paramètres</string>
+
+    //weather
+    <string name="tv_winfo_title">Détails météo</string>
+    <string name="tv_weather">Météo</string>
+    <string name="tv_temp_max">Température maximale</string>
+    <string name="tv_temp_min">Température minimale</string>
+    <string name="tv_temp_mio">Humidité</string>
+    <string name="tv_weather_title">Météo</string>
+    <string name="bt_weather_search">Recherche</string>
+
+    //meet
+    <string name="tv_recommend">Rechercher des lieux autour de vous</string>
+    <string name="tv_meet">Rechercher un lieu de rendez-vous</string>
+    <string name="bt_map_search">Recherche sur la carte</string>
+    <string name="tv_current_title">Position actuelle</string>
+    <string name="tv_latitude_title">Latitude :</string>
+    <string name="tv_longitude_title">Longitude :</string>
+    <string name="bt_map_current">Afficher sur la carte</string>
+    <string name="alarm">L’alarme a été réglée</string>
+    <string name="alarm10">Il reste dix minutes</string>
+    <string name="alarm0">C’est l’heure</string>
+    <string name="bt_recommend">Rechercher</string>
+    <string name="tv_meet_title">Rendez-vous</string>
+    <string name="bt_alarm">Paramètres de l’alarme</string>
+
+    //meibutu
+    <string name="tv_meibutu_title">Spécialité</string>
+
+    //setting
+    <string name="URL">fr</string>
+    <string name="tv_setting_title">Paramètres</string>
+    <string name="toast_setting">La langue a été modifiée</string>
+</resources>

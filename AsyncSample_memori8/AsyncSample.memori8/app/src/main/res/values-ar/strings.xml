@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //アラビア語
+    <string name="empty_string"></string>
+
+    //共通
+    <string name="bt_back">戻</string>
+
+    //menu
+    <string name="tv_title">تطبيق دعم الخروج III</string>
+    <string name="bt_weather">الطقس</string>
+    <string name="bt_recomend">الأطعمة المشهورة</string>
+    <string name="bt_talk">نقاش</string>
+    <string name="bt_setting">الإعدادات</string>
+
+    //weather
+    <string name="tv_weather_title">الطقس</string>
+    <string name="tv_weather">الطقس</string>
+    <string name="tv_temp_max">أعلى درجة حرارة</string>
+    <string name="tv_temp_min">أدنى درجة حرارة</string>
+    <string name="tv_temp_mio">الرطوبة</string>
+    <string name="tv_winfo_title">تفاصيل الطقس</string>
+    <string name="bt_weather_search">البحث</string>
+
+    //meet
+    <string name="tv_meet_title">موعد</string>
+    <string name="tv_recommend">البحث عن الأماكن المحيطة</string>
+    <string name="tv_meet">البحث عن مكان الاجتماع</string>
+    <string name="bt_map_search">بحث على الخريطة</string>
+    <string name="tv_current_title">الموقع الحالي</string>
+    <string name="tv_latitude_title">خط العرض:</string>
+    <string name="tv_longitude_title">خط الطول:</string>
+    <string name="bt_map_current">عرض على الخريطة</string>
+    <string name="alarm">تم تعيين التنبيه</string>
+    <string name="alarm10">عشر دقائق متبقية</string>
+    <string name="alarm0">الوقت</string>
+    <string name="bt_recommend">بحث</string>
+    <string name="bt_alarm">إعداد التنبيه</string>
+
+    //meibutu
+    <string name="tv_meibutu_title">الأطعمة المشهورة</string>
+
+    //setting
+    <string name="URL">ar</string>
+    <string name="tv_setting_title">الإعدادات</string>
+    <string name="toast_setting">تم تغيير اللغة</string>
+</resources>

@@ -1,0 +1,52 @@
+<!--
+『Androidアプリ開発の教科書』
+第11章
+Web API連携サンプル
+
+@author Shinzo SAITO
+
+res/values/string.xmlファイル
+-->
+<resources>
+	<string name="empty_string"></string>
+	//共通(文字は透明なので一文字かつ言語ごとに変える必要なし)
+	<string name="bt_back">戻</string>
+	//menu
+	<string name="tv_title">お出かけ支援アプリⅢ</string>
+	<string name="bt_weather">天気</string>
+	<string name="bt_recomend">名物</string>
+	<string name="bt_talk">待ち合わせ</string>
+	<string name="bt_setting">設定</string>
+
+	//weather
+	<string name="tv_weather_title">天気</string>
+	<string name="tv_winfo_title">お天気詳細</string>
+	<string name="tv_weather">天気</string>
+	<string name="tv_temp_max">最高気温</string>
+	<string name="tv_temp_min">最低気温</string>
+	<string name="tv_temp_mio">湿度</string>
+	<string name="bt_weather_search">検索</string>
+
+	//meet
+	<string name="tv_meet_title">待ち合わせ</string>
+	<string name="tv_recommend">周囲にあるスポットを検索する</string>
+	<string name="tv_meet">待ち合わせ場所を検索する</string>
+	<string name="bt_map_search">地図検索</string>
+	<string name="tv_current_title">現在地</string>
+	<string name="tv_latitude_title">緯度:</string>
+	<string name="tv_longitude_title">経度:</string>
+	<string name="bt_map_current">地図表示</string>
+	<string name="bt_alarm">アラーム設定</string>
+	<string name="alarm">アラームが設定されました</string>
+	<string name="alarm10">残り10分です</string>
+	<string name="alarm0">時間です</string>
+	<string name="bt_recommend">検索</string>
+
+	//meibutu
+	<string name="tv_meibutu_title">名物</string>
+
+	//setting
+	<string name="tv_setting_title">設定</string>
+	<string name="URL">ja</string>
+	<string name="toast_setting">言語が変更されました</string>
+</resources>

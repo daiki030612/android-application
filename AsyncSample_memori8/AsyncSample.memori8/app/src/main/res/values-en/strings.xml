@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //English
+    <string name="empty_string"></string>
+
+    //共通
+    <string name="bt_back">戻</string>
+
+    //menu
+    <string name="tv_title">Outing Support App III</string>
+    <string name="bt_weather">Weather</string>
+    <string name="bt_recomend">Specialty</string>
+    <string name="bt_talk">Meeting</string>
+    <string name="bt_setting">Settings</string>
+
+    //weather
+    <string name="tv_winfo_title">Weather Details</string>
+    <string name="tv_weather">Weather</string>
+    <string name="tv_temp_max">Maximum Temperature</string>
+    <string name="tv_temp_min">Minimum Temperature</string>
+    <string name="tv_temp_mio">Humidity</string>
+    <string name="bt_weather_search">Search</string>
+    <string name="tv_weather_title">Weather</string>
+
+    //meet
+    <string name="tv_recommend">Search for nearby spots</string>
+    <string name="tv_meet">Search for meeting places</string>
+    <string name="bt_map_search">Map Search</string>
+    <string name="tv_current_title">Current Location</string>
+    <string name="tv_latitude_title">Latitude:</string>
+    <string name="tv_longitude_title">Longitude:</string>
+    <string name="bt_map_current">Show on Map</string>
+    <string name="alarm">The alarm has been set</string>
+    <string name="alarm10">Ten minutes remaining</string>
+    <string name="alarm0">It’s time</string>
+    <string name="bt_recommend">Search</string>
+    <string name="tv_meet_title">Appointment</string>
+    <string name="bt_alarm">Alarm Setting</string>
+
+    //meibutu
+    <string name="tv_meibutu_title">Specialty</string>
+
+    //setting
+    <string name="URL">en</string>
+    <string name="tv_setting_title">Setting</string>
+    <string name="toast_setting">The language has been changed</string>
+</resources>

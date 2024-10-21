@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //中国語
+    <string name="empty_string"></string>
+
+    //共通
+    <string name="bt_back">戻</string>
+
+    //menu
+    <string name="tv_title">外出支持应用程序 III</string>
+    <string name="bt_weather">天气</string>
+    <string name="bt_recomend">特色</string>
+    <string name="bt_talk">等候约会</string>
+    <string name="bt_setting">设置</string>
+
+    //weather
+    <string name="tv_winfo_title">天气详细信息</string>
+    <string name="tv_weather">天气</string>
+    <string name="tv_temp_max">最高气温</string>
+    <string name="tv_temp_min">最低气温</string>
+    <string name="tv_temp_mio">湿度</string>
+    <string name="tv_weather_title">天气</string>
+    <string name="bt_weather_search">搜索</string>
+
+    //meet
+    <string name="tv_recommend">搜索周围的地点</string>
+    <string name="tv_meet">搜索约会地点</string>
+    <string name="bt_map_search">地图搜索</string>
+    <string name="tv_current_title">当前位置</string>
+    <string name="tv_latitude_title">纬度：</string>
+    <string name="tv_longitude_title">经度：</string>
+    <string name="bt_map_current">地图显示</string>
+    <string name="alarm">闹钟已设置</string>
+    <string name="alarm10">剩下十分钟</string>
+    <string name="alarm0">是时候了</string>
+    <string name="bt_recommend">搜索</string>
+    <string name="tv_meet_title">约会</string>
+    <string name="bt_alarm">闹钟设置</string>
+
+    //meibutu
+    <string name="tv_meibutu_title">特色</string>
+
+    //setting
+    <string name="URL">zh</string>
+    <string name="tv_setting_title">设置</string>
+    <string name="toast_setting">语言已更改</string>
+</resources>

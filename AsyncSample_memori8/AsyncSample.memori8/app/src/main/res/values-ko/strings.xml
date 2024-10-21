@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //韓国語
+    <string name="empty_string"></string>
+
+    //共通
+    <string name="bt_back">戻</string>
+
+    //menu
+    <string name="tv_title">외출 지원 앱 III</string>
+    <string name="bt_weather">날씨</string>
+    <string name="bt_recomend">명물</string>
+    <string name="bt_talk">만남 장소</string>
+    <string name="bt_setting">설정</string>
+
+    //weather
+    <string name="tv_winfo_title">날씨 상세정보</string>
+    <string name="tv_weather">날씨</string>
+    <string name="tv_temp_max">최고 기온</string>
+    <string name="tv_temp_min">최저 기온</string>
+    <string name="tv_temp_mio">습도</string>
+    <string name="tv_weather_title">날씨</string>
+    <string name="bt_weather_search">검색</string>
+
+    //meet
+    <string name="tv_recommend">주변 장소 검색하기</string>
+    <string name="tv_meet">만남 장소 검색하기</string>
+    <string name="bt_map_search">지도 검색</string>
+    <string name="tv_current_title">현재 위치</string>
+    <string name="tv_latitude_title">위도:</string>
+    <string name="tv_longitude_title">경도:</string>
+    <string name="bt_map_current">지도 표시</string>
+    <string name="alarm">알람이 설정되었습니다</string>
+    <string name="alarm10">10분 남았습니다</string>
+    <string name="alarm0">시간이에요</string>
+    <string name="bt_recommend">검색</string>
+    <string name="tv_meet_title">약속</string>
+    <string name="bt_alarm">알람 설정</string>
+
+    //meibutu
+    <string name="tv_meibutu_title">명물</string>
+
+    //setting
+    <string name="URL">ko</string>
+    <string name="tv_setting_title">설정</string>
+    <string name="toast_setting">언어가 변경되었습니다</string>
+</resources>

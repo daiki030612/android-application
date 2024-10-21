@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //イタリア語
+    <string name="empty_string"></string>
+
+    //共通
+    <string name="bt_back">戻</string>
+
+    //menu
+    <string name="tv_title">App di supporto per le uscite III</string>
+    <string name="bt_weather">Meteo</string>
+    <string name="bt_recomend">Specialità</string>
+    <string name="bt_talk">Appuntamento</string>
+    <string name="bt_setting">Impostazioni</string>
+
+    //weather
+    <string name="tv_winfo_title">Dettagli Meteo</string>
+    <string name="tv_weather">Meteo</string>
+    <string name="tv_temp_max">Temperatura massima</string>
+    <string name="tv_temp_min">Temperatura minima</string>
+    <string name="tv_temp_mio">Umidità</string>
+    <string name="tv_weather_title">Meteo</string>
+    <string name="bt_weather_search">Ricerca</string>
+
+    //meet
+    <string name="tv_recommend">Ricerca luoghi circostanti</string>
+    <string name="tv_meet">Ricerca luogo di incontro</string>
+    <string name="bt_map_search">Ricerca sulla mappa</string>
+    <string name="tv_current_title">Posizione attuale</string>
+    <string name="tv_latitude_title">Latitudine:</string>
+    <string name="tv_longitude_title">Longitudine:</string>
+    <string name="bt_map_current">Visualizza sulla mappa</string>
+    <string name="alarm">L’allarme è stato impostato</string>
+    <string name="alarm10">Dieci minuti rimasti</string>
+    <string name="alarm0">È l’ora</string>
+    <string name="bt_recommend">Cerca</string>
+    <string name="tv_meet_title">Appuntamento</string>
+    <string name="bt_alarm">Impostazione allarme</string>
+
+    //meibutu
+    <string name="tv_meibutu_title">Specialità</string>
+
+    //setting
+    <string name="URL">it</string>
+    <string name="tv_setting_title">Impostazioni</string>
+    <string name="toast_setting">La lingua è stata cambiata</string>
+</resources>

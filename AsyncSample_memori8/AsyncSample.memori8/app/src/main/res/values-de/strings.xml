@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //ドイツ語
+    <string name="empty_string"></string>
+
+    //共通
+    <string name="bt_back">戻</string>
+
+    //menu
+    <string name="tv_title">Ausgeh-Unterstützungs-App III</string>
+    <string name="bt_weather">Wetter</string>
+    <string name="bt_recomend">Spezialität</string>
+    <string name="bt_talk">Verabredung</string>
+    <string name="bt_setting">Einstellungen</string>
+
+    //weather
+    <string name="tv_winfo_title">Wetterdetails</string>
+    <string name="tv_weather">Wetter</string>
+    <string name="tv_temp_max">Maximale Temperatur</string>
+    <string name="tv_temp_min">Minimale Temperatur</string>
+    <string name="tv_temp_mio">Luftfeuchtigkeit</string>
+    <string name="tv_weather_title">Wetter</string>
+    <string name="bt_weather_search">Suche</string>
+
+    //meet
+    <string name="tv_recommend">Suche nach umliegenden Orten</string>
+    <string name="tv_meet">Suche nach Treffpunkten</string>
+    <string name="bt_map_search">Kartensuche</string>
+    <string name="tv_current_title">Aktueller Standort</string>
+    <string name="tv_latitude_title">Breitengrad:</string>
+    <string name="tv_longitude_title">Längengrad:</string>
+    <string name="bt_map_current">Kartenansicht</string>
+    <string name="alarm">Der Wecker wurde gestellt</string>
+    <string name="alarm10">Noch zehn Minuten übrig</string>
+    <string name="alarm0">Es ist Zeit</string>
+    <string name="bt_recommend">Suche</string>
+    <string name="tv_meet_title">Termin</string>
+    <string name="bt_alarm">Alarmeinstellung</string>
+
+    //meibutu
+    <string name="tv_meibutu_title">Spezialität</string>
+
+    //setting
+    <string name="URL">de</string>
+    <string name="tv_setting_title">Einstellungen</string>
+    <string name="toast_setting">Die Sprache wurde geändert</string>
+</resources>
